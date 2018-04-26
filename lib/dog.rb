@@ -8,7 +8,5 @@ def initialize(name)
   @@all << self
 end
 
-def Dogs.clear_all
 
-end
 end
