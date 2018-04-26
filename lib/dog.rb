@@ -9,6 +9,6 @@ def initialize(name)
 end
 
 def all.clear_all
-  @all.clear
+  @@all.clear
 end
 end
